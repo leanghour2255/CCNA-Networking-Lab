@@ -20,5 +20,5 @@ A hands-on collection of enterprise networking labs designed, configured, and ve
 | 05 | [Subnetting & VLSM](./05-Subnetting-VLSM) | Variable Length Subnet Masking, IP address space optimization, multi-subnet routing |
 
 ## Tools & Environment
-* **Network Simulation:** Cisco Packet Tracer
+* **Network Simulation:** Cisco Packet Tracer 
 * **Version Control:** Git & GitHub (Windows PowerShell / VS Code)
