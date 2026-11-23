@@ -1,5 +1,7 @@
 # Cisco CCNA Networking Lab Portfolio
 
+> **Status:** In Progress — actively adding labs as I progress through the CCNA 200-301 curriculum.
+
 A hands-on collection of enterprise networking labs designed, configured, and verified in Cisco Packet Tracer. Built as part of my CCNA certification preparation (following Jeremy's IT Lab), this repository documents foundational Layer 2 and Layer 3 network engineering skills.
 
 ## What Each Lab Includes
