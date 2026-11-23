@@ -15,7 +15,7 @@ A hands-on collection of enterprise networking labs designed, configured, and ve
 | :--- | :--- | :--- |
 | 01 | [Cisco IOS CLI Basics](./01-Cisco-IOS-CLI-Basics) | Device hardening, console/enable passwords, MOTD banners, NVRAM config management |
 | 02 | [IPv4 Addressing](./02-IPv4-Addressing) | Interface IP assignment, subnet mask configuration, Layer 3 connectivity testing |
-| 03 | [Routing Fundamentals](./03-Routing-Fundamentals) | Routing table analysis, packet forwarding logic, multi-hop path verification |
+| 03 | [Interface Configuration](./03-Interface-Configuration) | Port speed/duplex tuning, interface descriptions, unused port hardening |
 | 04 | [Static Routing](./04-Static-Routing) | Manual static route configuration, default routes (`0.0.0.0/0`), end-to-end reachability |
 | 05 | [Subnetting & VLSM](./05-Subnetting-VLSM) | Variable Length Subnet Masking, IP address space optimization, multi-subnet routing |
 
