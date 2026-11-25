@@ -18,7 +18,12 @@ A hands-on collection of enterprise networking labs designed, configured, and ve
 | 03 | [Interface Configuration](./03-Interface-Configuration) | Port speed/duplex tuning, interface descriptions, unused port hardening |
 | 04 | [Static Routing](./04-Static-Routing) | Manual static route configuration, default routes (`0.0.0.0/0`), end-to-end reachability |
 | 05 | [Subnetting & VLSM](./05-Subnetting-VLSM) | Variable Length Subnet Masking, IP address space optimization, multi-subnet routing |
+| 06 | [VLANs, Trunking & Router-on-a-Stick](./06-VLANs-Trunking-and-ROAS/) | VLAN creation, access ports, 802.1Q trunking, router subinterfaces, Inter-VLAN routing (ROAS) |
+| 07 | [Layer 3 Switching](./07-Layer-3-Switch-Inter-VLAN-Routing/) | Multilayer switches, `ip routing`, Switched Virtual Interfaces (SVIs), routed switchports |
 
 ## Tools & Environment
 * **Network Simulation:** Cisco Packet Tracer 
 * **Version Control:** Git & GitHub (Windows PowerShell / VS Code)
+
+## Credits
+Lab topologies and exercises are based on the [Jeremy's IT Lab Free CCNA 200-301 Course](https://www.youtube.com/c/JeremysITLab). All configurations, verification screenshots, and documentation are independently completed and maintained.
