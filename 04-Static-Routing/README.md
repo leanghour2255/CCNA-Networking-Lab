@@ -64,4 +64,4 @@ Verified connected (`C`), local (`L`), and static (`S`) route entries on `R1`, `
 ![PC1 Ping Verification](./PC1.png)
 
 ## Lab File
-* [Download Packet Tracer File (`Configuring Static-Routes.pkt`)](./Configuring%20Static-Routes.pkt)
+* [Download Packet Tracer File (`Configuring Static-Routes.pkt`)](./Configuring-Static-Routes.pkt)
