@@ -68,7 +68,7 @@ do wr
 ```
 
 ## Verification
-Verified VLAN port assignments with `show vlan brief`, 802.1Q trunking, native VLAN `1001`, and allowed VLAN lists with `show interfaces trunk`, Router-on-a-Stick subinterface states on `R1` with `show ip interface brief`, and intra-VLAN and inter-VLAN connectivity from `PC1`.
+Verified VLAN port assignments with `show vlan brief`, 802.1Q trunking, native VLAN `1001`, and allowed VLAN lists with `show interfaces trunk`, Router-on-a-Stick subinterface states on `R1` with `show ip interface brief`, and inter-VLAN connectivity from `PC1`.
 
 ![SW1 VLAN Verification](./SW1-VLANs.png)
 
